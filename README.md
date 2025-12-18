@@ -26,7 +26,7 @@ I enjoy building responsive websites and learning new technologies.
 This project is created for **learning, practice, and showcasing my work on GitHub**.
 
 ## 🔗 Live Demo
-*(Add your live site link here if deployed)*
+https://aj4859242-lang.github.io/Portfolio/
 
 ---
 
